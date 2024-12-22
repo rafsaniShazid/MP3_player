@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14590513826",
+    "project_id": "music-player-authentication",
+    "storage_bucket": "music-player-authentication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14590513826:android:8cec2ecba80400b6e57dfb",
+        "android_client_info": {
+          "package_name": "com.example.mp3player"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyBKh8bvy3UKkUFuQmNz__qM1KLebziKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
